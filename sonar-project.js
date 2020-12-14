@@ -13,7 +13,6 @@ sonarqubeScanner({
 	    'sonar.language':'js',
             'sonar.sourceEncoding':'UTF-8',
             'sonar.sources': '.',
-	    'sonar.exclusions' ='**/*.java'
 	  //'sonar.tests': 'specs',
           //'sonar.inclusions' : 'src/**'
        },
